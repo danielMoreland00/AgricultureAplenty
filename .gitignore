@@ -1,0 +1,25 @@
+# auto gen folders
+.mixin.out/
+config/
+crash-reports/
+defaultconfigs/
+logs/
+natives/
+resourcepacks/
+saves/
+schematics/
+screenshots/
+shaderpacks/
+
+# auto gen files
+background.png
+config.json
+options.txt
+optionsof.txt
+realms_persistence.json
+TrashSlotSaveState.json
+usercache.json
+usernamecache.json
+
+# excluded client-side mods
+mods/OptiFine*.jar
