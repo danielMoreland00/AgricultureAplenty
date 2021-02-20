@@ -23,3 +23,6 @@ usernamecache.json
 
 # excluded client-side mods
 mods/OptiFine*.jar
+
+# Auto gen IDE profiles
+.vscode/
