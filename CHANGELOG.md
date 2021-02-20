@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [Unreleased]
+
+Adding mods for integration with FE (forge energy), which enables certain functionality for blocks like the Powered Centrifuge in productive bees. Also includes converting FE to KE (kinetic energy) for use with the Create mod. QoL (quality of life) change with apple skin, helping you figure out exactly how much hunger/saturation you'll be getting out of that meal in your hand. 
+
+Mods added:
+
+- AppleSkin
+- ImmersiveEngineering 
+- Create Crafts & Additions
+
 ## [0.1.1-alpha] 2021-02-18
 Change with distribution file to reflect curseforge needs
 
@@ -7,7 +17,7 @@ Change with distribution file to reflect curseforge needs
 
 Initial creation. Adds the mods:
 
-- Aquaculter 2
+- Aquaculture 2
 - Atmospheric
 - Autumnity
 - Berry Good
