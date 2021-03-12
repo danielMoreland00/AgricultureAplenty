@@ -13,6 +13,7 @@ shaderpacks/
 # auto gen files
 background.png
 config.json
+manifest.json
 options.txt
 optionsof.txt
 realms_persistence.json
