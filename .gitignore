@@ -26,3 +26,7 @@ mods/OptiFine*.jar
 
 # Auto gen IDE profiles
 .vscode/
+
+# Luancher files
+.curseclient
+minecraftinstance.json
