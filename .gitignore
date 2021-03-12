@@ -1,6 +1,6 @@
 # auto gen folders
 .mixin.out/
-config/
+config/*
 crash-reports/
 defaultconfigs/
 logs/
@@ -31,3 +31,6 @@ mods/ImmersiveEngineering*.jar
 # Luancher files
 .curseclient
 minecraftinstance.json
+
+# Excluded folders
+!config/copy
