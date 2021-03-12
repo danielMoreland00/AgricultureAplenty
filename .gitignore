@@ -30,3 +30,6 @@ mods/ImmersiveEngineering*.jar
 # Luancher files
 .curseclient
 minecraftinstance.json
+
+# Misc.
+*.bak
