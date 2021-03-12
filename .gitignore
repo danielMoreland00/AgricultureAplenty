@@ -1,6 +1,5 @@
 # auto gen folders
 .mixin.out/
-config/
 crash-reports/
 defaultconfigs/
 logs/
@@ -24,6 +23,7 @@ usernamecache.json
 # excluded client-side mods
 mods/OptiFine*.jar
 mods/ImmersiveEngineering*.jar
+config/immersiveengineering*
 
 # Auto gen IDE profiles
 .vscode/
@@ -31,3 +31,6 @@ mods/ImmersiveEngineering*.jar
 # Luancher files
 .curseclient
 minecraftinstance.json
+
+# Misc.
+*.bak
