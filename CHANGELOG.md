@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+Removed immersive engineering from configs.
+
 ## [0.3] 2021-03-11
 
 Add default configs for a new world. Fix some conflicts with certain recipes, such as having two trough items. Remove unnecessary mods. 
