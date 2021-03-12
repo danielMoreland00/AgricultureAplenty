@@ -1,7 +1,11 @@
-Garden Ranch
-==================
+<h1 align="center">
+Garden Ranch 🌾</h1>
 
-_a more chill experience for those craving that farming experience in Minecraft_
+<div align="center">
+  
+*a more chill experience for those craving that farming experience in Minecraft*
+
+</div>
 
 ## Agriculture
 
