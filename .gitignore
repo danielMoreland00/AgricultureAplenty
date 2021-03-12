@@ -23,6 +23,7 @@ usernamecache.json
 # excluded client-side mods
 mods/OptiFine*.jar
 mods/ImmersiveEngineering*.jar
+config/immersiveengineering*
 
 # Auto gen IDE profiles
 .vscode/

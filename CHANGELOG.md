@@ -9,6 +9,8 @@ Add default configs for a new world. Fix some conflicts with certain recipes, su
 Mods added: 
 
 - Copy Paste
+- CraftTweaker
+- JEITweaker
 
 Mods removed:
 

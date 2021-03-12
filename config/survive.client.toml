@@ -20,6 +20,13 @@
 	"Temperature Bar X Position" = -66
 	#
 	############################################
+	#Change the texture of the temperature bar when you have hypothermia or hyperthermia
+	#-------------------------------------------
+	#Default: true
+	#-------------------------------------------
+	"Boolean: Hypo/Hyperthermia Effects" = true
+	#
+	############################################
 	#The y offset from the center of the screen where the temperature should render
 	#-------------------------------------------
 	#Default: 5
