@@ -1,6 +1,16 @@
 # CHANGELOG
 
-## [Unreleased]
+## [Unreleased v0.3]
+
+Add default configs for a new world. Fix some conflicts with certain recopies, such as having two trough items. Remove unnecessary mods. 
+
+Mods added: 
+
+- Copy Paste
+
+Mods removed:
+
+- Immersive engineering
 
 ## [0.2-alpha] 2021-02-21
 
