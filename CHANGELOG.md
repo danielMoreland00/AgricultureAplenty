@@ -2,7 +2,9 @@
 
 ## [Unreleased]
 
-Removed immersive engineering from configs.Try to have more guidance for early game. Fix some configs.
+## [0.4-beta] 2021-03-13
+
+Removed immersive engineering from configs. Added some mods for future implementation of in-game guides. Hides some items unobtainable in survival in JEI's to help de-clutter. Added mods for more crop/farming variety as well as cooking and eating. There's now categories for food that will give different bonuses _(such as luck or increased movement)_
 
 Mods added:
 
