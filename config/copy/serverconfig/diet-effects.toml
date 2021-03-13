@@ -1,0 +1,71 @@
+
+#Fruits
+[[effects]]
+
+    [[effects.attributes]]
+		amount = 4.0
+		name = "minecraft:generic.attack_speed"
+		operation = "multiply_total"
+
+	[[effects.conditions]]
+		below = 1.0
+		match = "all"
+		above = 0.8
+		groups = ["fruits"]
+
+#Grains
+[[effects]]
+	
+	[[effects.attributes]]
+		amount = 2.0
+		name = "minecraft:generic.max_health"
+		operation = "add"
+
+    [[effects.conditions]]
+		below = 1.0
+		match = "all"
+		above = 0.8
+		groups = ["grains"]
+
+#Proteins
+[[effects]]
+
+	[[effects.attributes]]
+		amount = 0.1
+		name = "minecraft:generic.attack_knockback"
+		operation = "multiply_total"
+
+    [[effects.conditions]]
+		below = 1.0
+		match = "all"
+		above = 0.8
+		groups = ["proteins"]
+
+#Vegetables
+[[effects]]
+    
+    [[effects.attributes]]
+		amount = 10.0
+		name = "minecraft:generic.luck"
+		operation = "multiply_total"
+
+    [[effects.conditions]]
+		below = 1.0
+		match = "all"
+		above = 0.8
+		groups = ["vegetables"]
+
+#Sugars
+[[effects]]
+
+	[[effects.attributes]]
+		amount = 0.25
+		name = "minecraft:generic.movement_speed"
+		operation = "multiply_base"
+
+	[[effects.conditions]]
+		below = 1.0
+		match = "all"
+		above = 0.8
+		groups = ["sugars"]
+
