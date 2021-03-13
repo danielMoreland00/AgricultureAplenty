@@ -81,7 +81,7 @@
 #Options related to filling the teapot
 [teapot]
 	#If true, the teapot will not consume water source blocks when filling. It will still consume water from tank and cauldrons.
-	infinite_water = true
+	infinite_water = false
 	#If true, the teapot can be filled with water from a cauldron
 	fill_from_cauldron = true
 	#If true, cows can be milked using a teapot to fill it with milk

@@ -2,7 +2,13 @@
 
 ## [Unreleased]
 
-Removed immersive engineering from configs.
+Removed immersive engineering from configs.Try to have more guidance for early game. Fix some configs.
+
+Mods added:
+
+- Patchouli
+- Farmer's Delight
+- Diet
 
 ## [0.3] 2021-03-11
 
