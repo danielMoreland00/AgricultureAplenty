@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+Update Spice of Life Potato configs for more balance. No longer provides buffs to max health, meaning player's max health can only be increased by eating new foods, but will never decrease in the case of not having enough food diversity. The last 64 items now affect player's food diversity instead of last 32
+
 ## [0.4-beta] 2021-03-13
 
 Removed immersive engineering from configs. Added some mods for future implementation of in-game guides. Hides some items unobtainable in survival in JEI's to help de-clutter. Added mods for more crop/farming variety as well as cooking and eating. There's now categories for food that will give different bonuses _(such as luck or increased movement)_

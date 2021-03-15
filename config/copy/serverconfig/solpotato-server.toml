@@ -26,7 +26,7 @@
 	# and Strength II at the corresponding threshold.
 	#
 	#
-	benefitsUnparsed = ["attribute,generic.max_health,2", "attribute,generic.max_health,2;effect,strength,0", "attribute,generic.max_health,2;effect,regeneration,0", "attribute,generic.max_health,2;effect,speed,0", "attribute,generic.max_health,2;attribute,generic.armor_toughness,2", "attribute,generic.armor_toughness,2;effect,strength,1", "attribute,generic.max_health,4", "attribute,generic.max_health,6"]
+	benefitsUnparsed = ["attribute,generic.luck,5", "attribute,generic.knockback_resistance,0.15", "attribute,generic.armor_toughness,2", "attribute,generic.luck,5;attribute,generic.movement_speed,0.15", "effect,speed,0", "effect,strength,0", "effect,jump_boost,0", "effect,strength,1;effect,regeneration,0;effect,haste,1"]
 	# The minimum number of foods a player needs to eat before any benefits are applied.
 	#
 	#
@@ -54,12 +54,12 @@
 	#
 	#
 	#Range: 1 ~ 1000
-	queueSize = 32
+	queueSize = 64
 	#
 	# If true, eating foods outside of survival mode (e.g. creative/adventure) is not tracked.
 	#
 	#
-	limitProgressionToSurvival = false
+	limitProgressionToSurvival = true
 	# Whether or not to reset food diversity on death, effectively losing all benefits.
 	#
 	#
@@ -92,7 +92,7 @@
 	#
 	#
 	#Range: 0 ~ 1000
-	endDecay = 32
+	endDecay = 64
 	# These config options all affect the technical details of how diversity is calculated.
 	# Please look at the explanation on the wiki on the github to see how these values work.
 	#
