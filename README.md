@@ -7,7 +7,7 @@ Garden Ranch 🌾</h1>
 
 </div>
 
-> To download the modpack, head over to the [curseforge](https://www.curseforge.com/minecraft/modpacks/garden-ranch/files) page
+<a href="https://www.curseforge.com/minecraft/modpacks/garden-ranch"><img src="http://cf.way2muchnoise.eu/full_448027_downloads.svg" /></a>
 
 # Agriculture
 
