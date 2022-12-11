@@ -1,0 +1,9 @@
+{
+	"type": "simplefarming:brewing",
+	"ingredient": {
+		"item": "simplefarming:cauim"
+	},
+	"result": {
+		"item": "simplefarming:vinegar"
+	}
+}

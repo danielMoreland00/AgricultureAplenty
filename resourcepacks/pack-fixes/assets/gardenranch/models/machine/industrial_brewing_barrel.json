@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "gardenranch:block/industrial_brewing_barrel_side",
+		"up": "gardenranch:block/industrial_brewing_barrel_top",
+		"down": "gardenranch:block/industrial_brewing_barrel_bottom",
+		"north": "gardenranch:block/industrial_brewing_barrel_front",
+		"east": "gardenranch:block/industrial_brewing_barrel_side",
+		"south": "gardenranch:block/industrial_brewing_barrel_side",
+		"west": "gardenranch:block/industrial_brewing_barrel_side"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "contenttweaker:block/preset_pillar_rotatable_noarg" },
+    "axis=z":   { "model": "contenttweaker:block/preset_pillar_rotatable_noarg", "x": 90 },
+    "axis=x":   { "model": "contenttweaker:block/preset_pillar_rotatable_noarg", "x": 90, "y": 90 }
+  }
+}

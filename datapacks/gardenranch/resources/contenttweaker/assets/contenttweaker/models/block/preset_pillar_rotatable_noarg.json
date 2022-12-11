@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "contenttweaker:block/preset_pillar_rotatable_noarg_end",
+    "side": "contenttweaker:block/preset_pillar_rotatable_noarg_sides"
+  }
+}
