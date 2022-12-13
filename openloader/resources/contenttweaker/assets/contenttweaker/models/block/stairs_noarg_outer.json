@@ -1,8 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "contenttweaker:block/stairs_noarg_bottom",
-    "top": "contenttweaker:block/stairs_noarg_top",
-    "side": "contenttweaker:block/stairs_noarg_sides"
-  }
-}
