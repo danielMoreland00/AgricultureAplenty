@@ -1,0 +1,9 @@
+{
+	"type": "simplefarming:brewing",
+	"ingredient": {
+		"item": "pamhc2crops:tealeafitem"
+	},
+	"result": {
+		"item": "create:builders_tea"
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"name": "Industrial Brewing Barrel",
+	"appearance": {
+		"block": "gardenranch:machine/industrial_brewing_barrel"
+	},
+	"tooltips": {
+		"text": "Machine used to brew like the brewing barrel, but also accepts liquids piped in.",
+		"color": "orange"
+	},
+	"gui": [
+		{
+			"texture": "custommachinery:textures/gui/base_background.png",
+			"x": 0,
+			"y": 0,
+			"type": "custommachinery:texture"
+		},
+		{
+			"x": 47,
+			"y": 80,
+			"type": "custommachinery:player_inventory"
+		},
+		{
+			"id": "fluidInput",
+			"x": 67,
+			"y": 30,
+			"type": "custommachinery:fluid"
+		},
+		{
+			"id": "itemInput",
+			"x": 87,
+			"y": 30,
+			"type": "custommachinery:slot"
+		},
+		{
+			"id": "fluidOutput",
+			"x": 149,
+			"y": 30,
+			"type": "custommachinery:fluid"
+		},
+		{
+			"x": 116,
+			"y": 30,
+			"type": "custommachinery:progress"
+		},
+		{
+			"text": "Industrial Brewing Barrel",
+			"x": 7,
+			"y": 5,
+			"type": "custommachinery:text"
+		}
+	],
+	"components": [
+		{
+			"mode": "input",
+			"id": "fluidInput",
+			"capacity": 10000,
+			"type": "custommachinery:fluid",
+			"filter": [
+				"minecraft:water",
+				"contenttweaker:beer",
+				"contenttweaker:grape_juice",
+				"contenttweaker:apple_juice",
+				"create:honey",
+				"contenttweaker:cactus_fruit_juice",
+				"contenttweaker:cauim",
+				"contenttweaker:mead",
+				"contenttweaker:cider",
+				"contenttweaker:sake",
+				"contenttweaker:wine",
+				"contenttweaker:tiswin",
+				"contenttweaker:vodka",
+				"contenttweaker:whiskey"
+			],
+			"whitelist": true
+		},
+		{
+			"mode": "input",
+			"id": "itemInput",
+			"capacity": 8,
+			"filter": [
+				"simplefarming:barley",
+				"simplefarming:cassava",
+				"minecraft:apple",
+				"minecraft:honeycomb",
+				"simplefarming:rice",
+				"farmersdelight:rice",
+				"simplefarming:cactus_fruit",
+				"pamhc2crops:cactusfruititem",
+				"minecraft:potato",
+				"minecraft:wheat",
+				"simplefarming:oat",
+				"simplefarming:rye",
+				"simplefarming:rice",
+				"pamhc2crops:riceitem",
+				"farmersdelight:rice",
+				"simplefarming:grapes"
+			],
+			"whitelist": true,
+			"type": "custommachinery:item"
+		},
+		{
+			"mode": "output",
+			"id": "fluidOutput",
+			"type": "custommachinery:fluid",
+			"capacity": 4000
+		}
+	]
+}

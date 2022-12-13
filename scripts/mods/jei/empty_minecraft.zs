@@ -67,3 +67,5 @@ mods.jei.JEI.hideItem(<item:minecraft:zombie_spawn_egg>);
 mods.jei.JEI.hideItem(<item:minecraft:zombie_horse_spawn_egg>);
 mods.jei.JEI.hideItem(<item:minecraft:zombie_villager_spawn_egg>);
 mods.jei.JEI.hideItem(<item:minecraft:zombified_piglin_spawn_egg>);
+mods.jei.JEI.hideItem(<item:minecraft:spawner>);
+mods.jei.JEI.hideItem(<item:minecraft:bedrock>);

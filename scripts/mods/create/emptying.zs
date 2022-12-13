@@ -1,0 +1,54 @@
+// Adding custom fluids to drain //
+///////////////////////////////////
+
+// Juices
+<recipetype:create:emptying>.addRecipe("create/empty/applejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:apple_juice> * 250, <item:pamhc2foodcore:applejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/melonjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:melon_juice> * 250, <item:pamhc2foodcore:melonjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/sweetberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:sweet_berry_juice> * 250, <item:pamhc2foodcore:sweetberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/p8juiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:p8_juice> * 250, <item:pamhc2foodcore:p8juiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/carrotjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:carrot_juice> * 250, <item:pamhc2foodextended:carrotjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/blackberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:blackberry_juice> * 250, <item:pamhc2foodextended:blackberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/blueberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:blueberry_juice> * 250, <item:pamhc2foodextended:blueberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/cactusfruitjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:cactus_fruit_juice> * 250, <item:pamhc2foodextended:cactusfruitjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/candleberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:candleberry_juice> * 250, <item:pamhc2foodextended:candleberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/cranberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:cranberry_juice> * 250, <item:pamhc2foodextended:cranberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/elderberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:elderberry_juice> * 250, <item:pamhc2foodextended:elderberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/huckleberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:huckleberry_juice> * 250, <item:pamhc2foodextended:huckleberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/juniperberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:juniperberry_juice> * 250, <item:pamhc2foodextended:juniperberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/mulberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:mulberry_juice> * 250, <item:pamhc2foodextended:mulberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/raspberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:raspberry_juice> * 250, <item:pamhc2foodextended:raspberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/strawberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:strawberry_juice> * 250, <item:pamhc2foodextended:strawberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/cantaloupejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:cantaloupe_juice> * 250, <item:pamhc2foodextended:cantaloupejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/grapejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:grape_juice> * 250, <item:pamhc2foodextended:grapejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/greengrapejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:green_grape_juice> * 250, <item:pamhc2foodextended:greengrapejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/kiwijuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:kiwi_juice> * 250, <item:pamhc2foodextended:kiwijuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/pineapplejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:pineapple_juice> * 250, <item:pamhc2foodextended:pineapplejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/cherryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:cherry_juice> * 250, <item:pamhc2foodextended:cherryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/orangejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:orange_juice> * 250, <item:pamhc2foodextended:orangejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/peachjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:peach_juice> * 250, <item:pamhc2foodextended:peachjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/pearjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:pear_juice> * 250, <item:pamhc2foodextended:pearjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/plumjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:plum_juice> * 250, <item:pamhc2foodextended:plumjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/pawpawjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:pawpaw_juice> * 250, <item:pamhc2foodextended:pawpawjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/soursopjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:soursop_juice> * 250, <item:pamhc2foodextended:soursopjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/apricotjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:apricot_juice> * 250, <item:pamhc2foodextended:apricotjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/bananajuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:banana_juice> * 250, <item:pamhc2foodextended:bananajuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/datejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:date_juice> * 250, <item:pamhc2foodextended:datejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/dragonfruitjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:dragonfruit_juice> * 250, <item:pamhc2foodextended:dragonfruitjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/figjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:fig_juice> * 250, <item:pamhc2foodextended:figjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/grapefruitjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:grapefruit_juice> * 250, <item:pamhc2foodextended:grapefruitjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/mangojuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:mango_juice> * 250, <item:pamhc2foodextended:mangojuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/papayajuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:papaya_juice> * 250, <item:pamhc2foodextended:papayajuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/persimmonjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:persimmon_juice> * 250, <item:pamhc2foodextended:persimmonjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/pomegranatejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:pomegranate_juice> * 250, <item:pamhc2foodextended:pomegranatejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/starfruitjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:starfruit_juice> * 250, <item:pamhc2foodextended:starfruitjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/breadfruitjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:breadfruit_juice> * 250, <item:pamhc2foodextended:breadfruitjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/jackfruitjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:jackfruit_juice> * 250, <item:pamhc2foodextended:jackfruitjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/guavajuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:guava_juice> * 250, <item:pamhc2foodextended:guavajuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/lycheejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:lychee_juice> * 250, <item:pamhc2foodextended:lycheejuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/passionfruitjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:passonfruit_juice> * 250, <item:pamhc2foodextended:passionfruitjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/rambutanjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:rambutan_juice> * 250, <item:pamhc2foodextended:rambutanjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/tamarindjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:tamarind_juice> * 250, <item:pamhc2foodextended:tamarindjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/gooseberryjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:gooseberry_juice> * 250, <item:pamhc2foodextended:gooseberryjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/durianjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:durian_juice> * 250, <item:pamhc2foodextended:durianjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/lemonjuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:lemon_juice> * 250, <item:pamhc2foodextended:lemonjuiceitem>);
+<recipetype:create:emptying>.addRecipe("create/empty/limejuiceitem", <item:minecraft:glass_bottle>, <fluid:contenttweaker:lime_juice> * 250, <item:pamhc2foodextended:limejuiceitem>);

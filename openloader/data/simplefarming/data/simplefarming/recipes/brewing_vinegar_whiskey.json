@@ -1,0 +1,9 @@
+{
+	"type": "simplefarming:brewing",
+	"ingredient": {
+		"item": "simplefarming:whiskey"
+	},
+	"result": {
+		"item": "simplefarming:vinegar"
+	}
+}

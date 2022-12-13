@@ -33,3 +33,6 @@ minecraftinstance.json
 
 # Misc.
 *.bak
+
+# User specific
+config/jei/bookmarks.ini
