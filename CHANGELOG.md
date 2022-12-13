@@ -2,7 +2,11 @@
 
 ## [0.5-beta] 2022-12-12
 
-Update Spice of Life Potato configs for more balance. No longer provides buffs to max health, meaning player's max health can only be increased by eating new foods, but will never decrease in the case of not having enough food diversity. The last 64 items now affect player's food diversity instead of last 32
+Update Spice of Life Potato configs for more balance. No longer provides buffs to max health, meaning player's max health can only be increased by eating new foods, but will never decrease in the case of not having enough food diversity. The last 64 items now affect player's food diversity instead of last 32.
+
+Added more realistic recipes for vinegar, which is made by brewing any alcohol in one of the brewing barrel. This includes the new `Industrial Brewing Barrel`, which is similar to the brewing barrel in simple farming but allows for automation by accepting hopper and piped liquid input and is roughly 8x more efficient. All juices, simple farming alcohol, tea, coffee, syrup, sap, and some cooking oils were made into custom liquids as well as juices and alcohol getting lots of changes to allow for automation with create and the new machine. Not all new liquids are currently accessible and aren't fully supported. Fixes a couple of visual bugs with the name of objects in JEI.
+
+Some other items got support with create's crafting system, such as the recipe for Pumpkin Bread in Autumnity, and flour got massive changes to be consolidated and remove other recipes for dough and flour. Dough is now necessary to create bread, and other changes like this were made to some 'early game' or 'common' food items. Most other changes will be a future update.
 
 Mods added:
 
