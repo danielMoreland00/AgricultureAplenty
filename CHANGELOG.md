@@ -1,8 +1,75 @@
 # CHANGELOG
 
-## [Unreleased]
+## [0.5-beta] 2022-12-12
 
 Update Spice of Life Potato configs for more balance. No longer provides buffs to max health, meaning player's max health can only be increased by eating new foods, but will never decrease in the case of not having enough food diversity. The last 64 items now affect player's food diversity instead of last 32
+
+Mods added:
+
+- AgriCraft
+- AgriCraft Seed Fix
+- Botania
+- BotaniaConfigs
+- CreateTweaker
+- Configured
+- Curios
+- Cultural Delights
+- Farmer's Respite
+- Flywheel
+- Honey Expansion (Farmer's Delight)
+- Immersive Cooking (Farmer's Delight)
+- Irregular Chef (Farmer's Delight)
+- Infinitylib
+- Large Meals (Farmer's Delight)
+- Nether's Delight
+- Selene
+- StorageDrawers
+- Supplimentaries
+
+Mods Updated:
+- Abnormals-Core
+- Appleskin
+- Aquaculture
+- AstikorCarts
+- Atmospheric
+- AutoRegLib
+- Autumnity
+- Berry Good
+- Bookshelf
+- BotanyPots
+- Buzzier Bees
+- Comforts
+- Controlling
+- CookingForBlockheads
+- CraftTweaker
+- Create
+- Create Addition
+- Embellishcraft
+- EnchantmentDescriptions
+- FarmersDelight
+- FarmingForBlockheads
+- FpsReducer
+- JEI
+- JEITweaker
+- Mapperbase
+- Pam's Harvestcraft 2
+  - Food extended
+  - Trees
+  - Crops
+- Patchouli
+- Performant
+- Polymorph
+- Productive Bees
+- Quark
+- RapidLeafDecay
+- SereneSeasons
+- Simple Farming
+- Simply Tea
+- SolCarrot
+- Survive
+- UnionLib
+- Voyage
+- WAWLA
 
 ## [0.4-beta] 2021-03-13
 
