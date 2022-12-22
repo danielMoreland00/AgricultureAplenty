@@ -14,6 +14,8 @@ Mods added:
 - AgriCraft Seed Fix
 - Botania
 - BotaniaConfigs
+- Ceramic Bucket
+- Create Alloyed
 - CreateTweaker
 - Configured
 - Curios
@@ -25,10 +27,14 @@ Mods added:
 - Irregular Chef (Farmer's Delight)
 - Infinitylib
 - Large Meals (Farmer's Delight)
+- Mystical Agriculture
+  - Agradditions
+  - Customization
 - Nether's Delight
 - Selene
 - StorageDrawers
 - Supplimentaries
+- Wooden Buckets
 
 Mods Updated:
 - Abnormals-Core
