@@ -9,6 +9,8 @@ saves/
 schematics/
 screenshots/
 shaderpacks/
+**/defaults/
+openloader/*/contenttweaker/
 
 # auto gen files
 background.png
@@ -33,6 +35,7 @@ minecraftinstance.json
 
 # Misc.
 *.bak
+modlist.html
 
 # User specific
 config/jei/bookmarks.ini
